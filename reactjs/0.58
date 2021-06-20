@@ -1,0 +1,8 @@
++ react-native@0.64.2
+added 219 packages from 185 contributors and audited 2309 packages in 206.246s
+
+144 packages are looking for funding
+  run `npm fund` for details
+
+found 87 vulnerabilities (3 low, 81 moderate, 3 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
